@@ -26,7 +26,8 @@ const estiloCuerpo = {
 	borderRadius: "5px",
 	padding: "20px",
 	marginLeft: "30px",
-	marginRight: "30px"
+	marginRight: "30px",
+	marginTop: "80px"
 };
 
 const texto = {
